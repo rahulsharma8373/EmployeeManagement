@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Built-By: Naresh Kumar
+Build-Jdk: 18.0.1
+Class-Path: libs/helidon-microprofile-core-2.5.2.jar libs/helidon-microp
+ rofile-server-2.5.2.jar libs/helidon-microprofile-cdi-2.5.2.jar libs/we
+ ld-se-core-2.5.2.jar libs/weld-core-impl-2.5.2.jar libs/weld-environmen
+ t-common-3.1.6.Final.jar libs/jboss-classfilewriter-1.2.5.Final.jar lib
+ s/helidon-webserver-static-content-2.5.2.jar libs/helidon-common-media-
+ type-2.5.2.jar libs/helidon-common-service-loader-2.5.2.jar libs/jakart
+ a.interceptor-api-1.2.5.jar libs/helidon-config-yaml-2.5.2.jar libs/jer
+ sey-weld2-se-2.35.jar libs/jersey-cdi1x-2.35.jar libs/helidon-jersey-me
+ dia-jsonp-2.5.2.jar libs/jersey-media-json-processing-2.35.jar libs/jso
+ np-jaxrs-1.1.6.jar libs/helidon-microprofile-config-2.5.2.jar libs/heli
+ don-config-encryption-2.5.2.jar libs/helidon-common-crypto-2.5.2.jar li
+ bs/helidon-config-object-mapping-2.5.2.jar libs/helidon-microprofile-me
+ trics-2.5.2.jar libs/helidon-service-common-rest-cdi-2.5.2.jar libs/hel
+ idon-service-common-rest-2.5.2.jar libs/helidon-metrics-api-2.5.2.jar l
+ ibs/helidon-config-2.5.2.jar libs/helidon-config-metadata-2.5.2.jar lib
+ s/helidon-metrics-service-api-2.5.2.jar libs/helidon-common-2.5.2.jar l
+ ibs/helidon-metrics-2.5.2.jar libs/helidon-common-configurable-2.5.2.ja
+ r libs/microprofile-metrics-api-2.3.2.jar libs/helidon-microprofile-hea
+ lth-2.5.2.jar libs/helidon-health-2.5.2.jar libs/helidon-fault-toleranc
+ e-2.5.2.jar libs/microprofile-config-api-1.4.jar libs/microprofile-heal
+ th-api-2.2.jar libs/helidon-health-common-2.5.2.jar libs/helidon-media-
+ jsonp-2.5.2.jar libs/helidon-common-http-2.5.2.jar libs/helidon-common-
+ reactive-2.5.2.jar libs/helidon-media-common-2.5.2.jar libs/helidon-com
+ mon-mapper-2.5.2.jar libs/jakarta.json-1.1.6.jar libs/jandex-2.3.1.Fina
+ l.jar libs/helidon-jersey-client-2.5.2.jar libs/jersey-client-2.35.jar 
+ libs/jersey-hk2-2.35.jar libs/hk2-locator-2.6.1.jar libs/aopalliance-re
+ packaged-2.6.1.jar libs/hk2-api-2.6.1.jar libs/hk2-utils-2.6.1.jar libs
+ /jakarta.inject-api-1.0.jar libs/helidon-config-yaml-mp-2.5.2.jar libs/
+ jakarta.annotation-api-1.3.5.jar libs/activation-1.1.1.jar libs/javax.p
+ ersistence-api-2.2.jar libs/javax.transaction-api-1.2.jar libs/helidon-
+ integrations-cdi-datasource-hikaricp-2.5.2.jar libs/helidon-integration
+ s-cdi-datasource-2.5.2.jar libs/HikariCP-5.0.0.jar libs/helidon-integra
+ tions-cdi-jta-weld-2.5.2.jar libs/helidon-integrations-cdi-jta-2.5.2.ja
+ r libs/jboss-transaction-spi-7.6.1.Final.jar libs/weld-jta-3.1.6.Final.
+ jar libs/weld-api-3.1.SP2.jar libs/cdi-5.12.0.Final.jar libs/jta-5.12.0
+ .Final.jar libs/common-5.12.0.Final.jar libs/arjuna-5.12.0.Final.jar li
+ bs/weld-spi-3.1.SP2.jar libs/helidon-integrations-cdi-jpa-2.5.2.jar lib
+ s/jakarta.activation-api-1.2.2.jar libs/helidon-integrations-cdi-delega
+ tes-2.5.2.jar libs/helidon-integrations-cdi-reference-counted-context-2
+ .5.2.jar libs/helidon-integrations-jta-jdbc-2.5.2.jar libs/helidon-inte
+ grations-jdbc-2.5.2.jar libs/jakarta.xml.bind-api-2.3.3.jar libs/jaxb-i
+ mpl-2.3.5.jar libs/jakarta.activation-1.2.2.jar libs/helidon-integratio
+ ns-cdi-hibernate-2.5.2.jar libs/hibernate-core-5.5.7.Final.jar libs/jbo
+ ss-logging-3.2.1.Final.jar libs/javassist-3.27.0-GA.jar libs/byte-buddy
+ -1.11.12.jar libs/antlr-2.7.7.jar libs/classmate-1.5.1.jar libs/hiberna
+ te-commons-annotations-5.1.2.Final.jar libs/jaxb-runtime-2.3.1.jar libs
+ /txw2-2.3.1.jar libs/istack-commons-runtime-3.0.7.jar libs/stax-ex-1.8.
+ jar libs/FastInfoset-1.2.15.jar libs/jakarta.persistence-api-2.2.3.jar 
+ libs/ojdbc8-21.3.0.0.jar libs/microprofile-openapi-api-1.2.jar libs/hel
+ idon-microprofile-openapi-2.5.2.jar libs/helidon-openapi-2.5.2.jar libs
+ /smallrye-open-api-core-2.0.26.jar libs/smallrye-open-api-jaxrs-2.0.26.
+ jar libs/yasson-1.0.11.jar libs/jakarta.json.bind-api-1.0.2.jar libs/ja
+ karta.json-1.1.6-module.jar libs/snakeyaml-1.30.jar libs/slf4j-api-1.7.
+ 32.jar libs/slf4j-simple-1.7.32.jar libs/maven-core-3.3.3.jar libs/mave
+ n-model-3.3.3.jar libs/maven-settings-3.3.3.jar libs/maven-settings-bui
+ lder-3.3.3.jar libs/maven-builder-support-3.3.3.jar libs/maven-reposito
+ ry-metadata-3.3.3.jar libs/maven-artifact-3.3.3.jar libs/maven-plugin-a
+ pi-3.3.3.jar libs/maven-model-builder-3.3.3.jar libs/guava-30.0-jre.jar
+  libs/failureaccess-1.0.1.jar libs/listenablefuture-9999.0-empty-to-avo
+ id-conflict-with-guava.jar libs/jsr305-3.0.2.jar libs/checker-qual-3.5.
+ 0.jar libs/error_prone_annotations-2.3.3.jar libs/j2objc-annotations-1.
+ 3.jar libs/maven-aether-provider-3.3.3.jar libs/aether-spi-1.0.2.v20150
+ 114.jar libs/aether-impl-1.0.2.v20150114.jar libs/aether-api-1.0.2.v201
+ 50114.jar libs/aether-util-1.0.2.v20150114.jar libs/org.eclipse.sisu.pl
+ exus-0.3.0.jar libs/org.eclipse.sisu.inject-0.3.0.jar libs/sisu-guice-3
+ .2.5-no_aop.jar libs/aopalliance-1.0.jar libs/plexus-interpolation-1.21
+ .jar libs/plexus-utils-3.0.20.jar libs/plexus-classworlds-2.5.2.jar lib
+ s/plexus-component-annotations-1.5.5.jar libs/plexus-sec-dispatcher-1.3
+ .jar libs/plexus-cipher-1.4.jar libs/jackson-databind-2.13.2.jar libs/j
+ ackson-annotations-2.13.2.jar libs/jackson-core-2.13.2.jar libs/jersey-
+ media-json-jackson-2.35.jar libs/jersey-common-2.35.jar libs/osgi-resou
+ rce-locator-1.0.3.jar libs/jersey-entity-filtering-2.35.jar libs/jackso
+ n-module-jaxb-annotations-2.13.2.jar libs/json-20180813.jar libs/helido
+ n-microprofile-rest-client-2.5.2.jar libs/microprofile-rest-client-api-
+ 2.0.jar libs/helidon-common-context-2.5.2.jar libs/jersey-mp-rest-clien
+ t-2.35.jar libs/reactive-streams-1.0.3.jar libs/jersey-media-sse-2.35.j
+ ar libs/jersey-bean-validation-2.35.jar libs/jakarta.inject-2.6.1.jar l
+ ibs/jersey-server-2.35.jar libs/jakarta.validation-api-2.0.2.jar libs/h
+ ibernate-validator-6.2.1.Final.jar libs/jakarta.el-api-3.0.3.jar libs/j
+ akarta.el-3.0.4.jar libs/jakarta.ws.rs-api-2.1.6.jar libs/helidon-micro
+ profile-bean-validation-2.5.2.jar libs/hibernate-validator-cdi-6.2.1.Fi
+ nal.jar libs/helidon-microprofile-cors-2.5.2.jar libs/helidon-jersey-co
+ mmon-2.5.2.jar libs/helidon-webserver-2.5.2.jar libs/helidon-common-key
+ -util-2.5.2.jar libs/helidon-logging-common-2.5.2.jar libs/opentracing-
+ util-0.33.0.jar libs/opentracing-api-0.33.0.jar libs/opentracing-noop-0
+ .33.0.jar libs/helidon-tracing-config-2.5.2.jar libs/netty-codec-http-4
+ .1.77.Final.jar libs/netty-common-4.1.77.Final.jar libs/netty-transport
+ -4.1.77.Final.jar libs/netty-codec-4.1.77.Final.jar libs/netty-codec-ht
+ tp2-4.1.77.Final.jar libs/netty-handler-4.1.77.Final.jar libs/netty-res
+ olver-4.1.77.Final.jar libs/helidon-webserver-jersey-2.5.2.jar libs/hel
+ idon-jersey-server-2.5.2.jar libs/netty-buffer-4.1.77.Final.jar libs/he
+ lidon-webserver-cors-2.5.2.jar libs/helidon-config-mp-2.5.2.jar libs/ja
+ karta.enterprise.cdi-api-2.0.2.jar libs/cdi-api-1.2.jar libs/javax.inje
+ ct-1.jar libs/spring-boot-starter-data-jpa-2.7.3.jar libs/spring-boot-s
+ tarter-aop-2.7.3.jar libs/spring-boot-starter-2.7.3.jar libs/spring-boo
+ t-2.7.3.jar libs/spring-boot-autoconfigure-2.7.3.jar libs/spring-boot-s
+ tarter-logging-2.7.3.jar libs/logback-classic-1.2.10.jar libs/logback-c
+ ore-1.2.10.jar libs/log4j-to-slf4j-2.17.2.jar libs/log4j-api-2.17.1.jar
+  libs/jul-to-slf4j-1.7.32.jar libs/spring-aop-5.3.22.jar libs/aspectjwe
+ aver-1.9.7.jar libs/spring-boot-starter-jdbc-2.7.3.jar libs/spring-jdbc
+ -5.3.22.jar libs/jakarta.transaction-api-1.3.3.jar libs/spring-data-jpa
+ -2.7.2.jar libs/spring-data-commons-2.7.2.jar libs/spring-orm-5.3.22.ja
+ r libs/spring-context-5.3.22.jar libs/spring-expression-5.3.22.jar libs
+ /spring-tx-5.3.22.jar libs/spring-beans-5.3.22.jar libs/spring-core-5.3
+ .22.jar libs/spring-jcl-5.3.22.jar libs/spring-aspects-5.3.22.jar
+Main-Class: io.helidon.microprofile.cdi.Main
+Created-By: Maven Integration for Eclipse
+
